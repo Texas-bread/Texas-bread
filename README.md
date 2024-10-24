@@ -9,7 +9,7 @@
 ### Learning and using
 <div>
   <p align="">
-  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,git,mysql,redis,mongodb,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,ts,vue,git,mysql,redis&theme=dark" />
   </p >
 </div>  
 
